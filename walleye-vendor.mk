@@ -154,7 +154,9 @@ PRODUCT_COPY_FILES += \
     vendor/google/walleye/proprietary/product/etc/permissions/com.android.sdm.plugins.dcmo.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.android.sdm.plugins.dcmo.xml \
     vendor/google/walleye/proprietary/product/etc/permissions/com.android.sdm.plugins.diagmon.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.android.sdm.plugins.diagmon.xml \
     vendor/google/walleye/proprietary/product/etc/permissions/com.android.sdm.plugins.sprintdm.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.android.sdm.plugins.sprintdm.xml \
+    vendor/google/walleye/proprietary/product/etc/permissions/com.google.android.apps.scone.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.google.android.apps.scone.xml \
     vendor/google/walleye/proprietary/product/etc/permissions/com.google.android.hardwareinfo.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.google.android.hardwareinfo.xml \
+    vendor/google/walleye/proprietary/product/etc/permissions/com.google.euiccpixel.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.google.euiccpixel.xml \
     vendor/google/walleye/proprietary/product/etc/permissions/com.verizon.apn.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.verizon.apn.xml \
     vendor/google/walleye/proprietary/product/etc/permissions/com.verizon.services.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.verizon.services.xml \
     vendor/google/walleye/proprietary/product/etc/permissions/features-verizon.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/features-verizon.xml \
